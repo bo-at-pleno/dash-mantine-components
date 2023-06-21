@@ -95,6 +95,7 @@ import TabsList from "./components/core/tabs/TabsList";
 import TabsPanel from "./components/core/tabs/TabsPanel";
 import Text from "./components/core/Text";
 import TextInput from "./components/core/textinput/TextInput";
+import LazyText from "./components/core/textinput/LazyText";
 import Textarea from "./components/core/textinput/Textarea";
 import ThemeIcon from "./components/core/ThemeIcon";
 import TimeInput from "./components/dates/TimeInput";
@@ -205,6 +206,7 @@ export {
     TabsPanel,
     Text,
     TextInput,
+    LazyText,
     Textarea,
     ThemeIcon,
     TimeInput,
